@@ -44,7 +44,7 @@ O arquivo `calculadora.py` foi desenvolvido para ser uma ferramenta  de cálculo
 * **Conversão de Tipos:** Os dados inseridos são convertidos para `float`, permitindo operações com números decimais.
 * **Estrutura Decisória:** Utiliza blocos `if`, `elif` e `else` para identificar qual operação matemática (+, -, *, /) o usuário deseja realizar.
 * **Tratamento de Erros (Divisão por Zero):** O código inclui uma verificação de segurança: caso o usuário tente dividir um número por 0, o programa exibe uma mensagem de erro amigável em vez de interromper o sistema abruptamente.
-* **Bloco Try-Except:** Garante que, caso o usuário digite letras ou símbolos onde deveriam estar números, o programa informe o erro de entrada sem "quebrar".
+* **Bloco Try-Except:** Garante que, caso o usuário digite letras ou símbolos onde deveriam estar números, o programa informa o erro de entrada sem "quebrar".
 
 ---
 
