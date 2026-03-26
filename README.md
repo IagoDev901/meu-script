@@ -50,4 +50,6 @@ O arquivo `calculadora.py` foi desenvolvido para ser uma ferramenta  de cálculo
 
 ## 👤 Autor
 
-**Iago Rosado** *Desenvolvido como parte da atividade prática de Linux e Automação.* - ATIVIDADE EBAC
+**Iago Rosado**  
+
+ATIVIDADE EBAC
